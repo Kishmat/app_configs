@@ -1,6 +1,6 @@
 {
   "version": "1.2.0",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "release_note": "Major Bug fixes and error handling",
   "updateUrl": "https://www.youtube.com"
 }
