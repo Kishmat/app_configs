@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.0.0",
   "forceUpdate": true,
   "release_note": "Version 1.1.0 - Minor Bug Fixes & Offline Feature: Bug fixes to improve stability and performance.\nAdded offline mode for enhanced user experience without internet connectivity."
 ,
