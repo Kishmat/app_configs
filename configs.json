@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "forceUpdate": true,
   "release_note": "Version 1.0.1 - Minor Bug Fixes & Improvements: Resolved an issue where watch time was not being accurately counted, ensuring a more reliable tracking of your viewing time.\nImprovements: Enhanced offline viewing functionality to provide a smoother and more seamless experience when viewing content without an internet connection."
 ,
